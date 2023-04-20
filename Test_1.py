@@ -1,6 +1,8 @@
 import time
 from selenium import webdriver
 
+#En este caso se hara una ejecución tomando como selector xpaths
+
 #Abrir la pagina donde se va a crear el test
 driver = webdriver.Chrome()
 driver.get("https://demoqa.com/text-box")
