@@ -6,7 +6,7 @@
 </div>
 
 <div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Selenium_logo.svg/2560px-Selenium_logo.svg.png" width="200" height="400" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Selenium_logo.svg/2560px-Selenium_logo.svg.png" width="600" height="200" />
 </div>
 
 
